@@ -1,0 +1,18 @@
+[
+  { "name": "0.Repaso", "repo": "gobstones/curso-lpysd2"
+  , "exercises": 
+    [ { "id": "1", "name": "Lucho enciende las luces"
+      , "path": "Unidades/0.Repaso/1.Lucho enciende las luces"
+      }
+    , { "id": "2", "name": "Lucho enciende las luces extendido"
+      , "path": "Unidades/0.Repaso/2.Lucho enciende las luces extendido"
+      }
+    , { "id": "3", "name": "Fútbol de robots "
+      , "path": "Unidades/0.Repaso/3.Fútbol de robots"
+      }
+    , { "id": "4", "name": "La música del loro"
+      , "path": "Unidades/0.Repaso/4.La música del loro"
+      }
+    ]
+  }
+]
