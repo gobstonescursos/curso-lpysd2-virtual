@@ -1,0 +1,26 @@
+program { DarVueltaLasFiguras() }
+
+procedure DarVueltaLasFiguras() {
+  repeat(8) {
+    ProcesarUnaCarta()
+    PasarASiguientePosición()
+  }
+  ProcesarUnaCarta()
+}
+
+procedure ProcesarUnaCarta() {
+  DarVueltaLaCartaActual()
+  if (not(estaCartaEsUnaFigura())) {
+    DarVueltaLaCartaActual()
+  }
+}
+
+function estaCartaEsUnaFigura() { return (estaCartaEsUnRey() 
+                                       ||(estaCartaEsUnCaballo() 
+                                       || estaCartaEsUnaSota())) 
+                                }
+function estaCartaEsUnRey()     { return (dameElValor_(cartaActual()) == 12) }
+function estaCartaEsUnCaballo() { return (dameElValor_(cartaActual()) == 11) }
+function estaCartaEsUnaSota()   { return (dameElValor_(cartaActual()) == 10) }
+
+
