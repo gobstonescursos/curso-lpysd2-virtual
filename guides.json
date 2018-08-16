@@ -41,7 +41,10 @@
     , { "id": "8", "name": "El Rey, el Caballo, …"
       , "path": "Unidades/1.Expresiones y funciones/9.El rey, el caballo, …"
       }
-    , { "id": "8", "name": "¡No te gastes el ancho!"
+    , { "id": "9", "name": "¡No te gastes el ancho!"
+      , "path": "Unidades/1.Expresiones y funciones/8.No te gastes el ancho"
+      }
+    , { "id": "10", "name": "¡No te gastes el ancho!"
       , "path": "Unidades/1.Expresiones y funciones/8.No te gastes el ancho"
       }
     , { "id": "11", "name": "Calcular el envido simple"
