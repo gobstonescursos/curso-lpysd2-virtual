@@ -52,32 +52,50 @@
       }
 	 ]
   }
-, { "name": "2.Parámetros y Entrada-Salida", "repo": "gobstones/curso-lpysd2"
+, { "name": "2.Parámetros y Entrada-Salida", "repo": "gobstones/laprogramacionysudidactica2"
   , "exercises":
-    [ { "id": "1", "name": "La máquina de licuados v1.0"
+    [ { "id": "1.1", "name": "La máquina de licuados v1.0"
       , "path": "Unidades/2.Parámetros y Entrada-Salida/1.1.La máquina de licuados v1.0"
       }
-    , { "id": "2", "name": "La máquina de licuados v2.0"
+    , { "id": "1.2", "name": "La máquina de licuados v2.0"
       , "path": "Unidades/2.Parámetros y Entrada-Salida/1.2.La máquina de licuados v2.0"
       }
-    , { "id": "3", "name": "La máquina de licuados v3.0"
+    , { "id": "1.3", "name": "La máquina de licuados v3.0"
       , "path": "Unidades/2.Parámetros y Entrada-Salida/1.3.La máquina de licuados v3.0"
       }
-    , { "id": "4", "name": "La máquina de licuados v4.0"
+    , { "id": "1.4", "name": "La máquina de licuados v4.0"
       , "path": "Unidades/2.Parámetros y Entrada-Salida/1.4.La máquina de licuados v4.0"
       }
-    , { "id": "5", "name": "Prender las fogatas, parametrizado"
-      , "path": "Unidades/2.Parámetros y Entrada-Salida/2.Prender las fogatas, parametrizado"
+    , { "id": "2.1", "name": "Prender las fogatas, parametrizado"
+      , "path": "Unidades/2.Parámetros y Entrada-Salida/2.1.Prender las fogatas, parametrizado"
       }
-    , { "id": "6", "name": "El planeta de Nano"
-      , "path": "Unidades/2.Parámetros y Entrada-Salida/3.El planeta de Nano"
+    , { "id": "2.2", "name": "El planeta de Nano"
+      , "path": "Unidades/2.Parámetros y Entrada-Salida/2.2.El planeta de Nano"
       }
-	, { "id": "7", "name": "Es de espadas"
-      , "path": "Unidades/2.Parámetros y Entrada-Salida/4.Es de espadas"
+	, { "id": "3.1", "name": "Es de espadas"
+      , "path": "Unidades/2.Parámetros y Entrada-Salida/3.1.Es de espadas"
       }
-    , { "id": "8", "name": "Es de…"
-      , "path": "Unidades/2.Parámetros y Entrada-Salida/5.Es de…"
+    , { "id": "3.2", "name": "Es de…"
+      , "path": "Unidades/2.Parámetros y Entrada-Salida/3.2.Es de…"
       }
-	]
+	, { "id": "4", "name": "Memotest"
+      , "path": "Unidades/2.Parámetros y Entrada-Salida/4.Memotest"
+      }
+	, { "id": "5.1", "name": "Envido simple con parámetros"
+      , "path": "Unidades/2.Parámetros y Entrada-Salida/5.1.Envido con parámetros"
+      }
+	, { "id": "5.2", "name": "Son buenas"
+      , "path": "Unidades/2.Parámetros y Entrada-Salida/5.2.Son buenas"
+      }
+    , { "id": "6.1", "name": "Sudoku simplificado básico"
+      , "path": "Unidades/2.Parámetros y Entrada-Salida/6.1.Sudoku simplificado básico"
+      }	
+    , { "id": "6.2", "name": "Sudoku simplificado"
+      , "path": "Unidades/2.Parámetros y Entrada-Salida/6.2.Sudoku simplificado"
+      }	
+    , { "id": "6.3", "name": "Sudoku simplificado asistido"
+      , "path": "Unidades/2.Parámetros y Entrada-Salida/6.3.Sudoku simplificado asistido"
+      }	
+    ]
   }
 ]

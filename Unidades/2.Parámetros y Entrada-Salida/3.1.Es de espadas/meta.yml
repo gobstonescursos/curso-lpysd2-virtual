@@ -1,4 +1,4 @@
-name: Es de
+name: Es de espadas
 attire:
   active: 'Cartas, letras y números'
   user_permissions:
@@ -16,18 +16,18 @@ blocks:
         <block type="OperadorLogico"></block>
         <block type="not"></block>
     </category>
-    <category name="Operaciones de cartas">
+    <category name="Operaciones de Cartas">
         <block type="DecirQueTengoFlor"></block>
         <block type="DecirQueNoTengoFlor"></block>
         <block type="paloDeCartaEspañolaDe40_"></block>
         <block type="númeroDeCartaEspañolaDe40_"></block>
-        <block type="primeraCarta"></block>
         <block type="segundaCarta"></block>
         <block type="terceraCarta"></block>
         <block type="dameElPalo_"></block>
         <block type="dameElNúmero_"></block>
     </category>
     <category name="Mis procedimientos" custom="PROCEDURE_CALLS">  </category>
+    <category name="Mis funciones" custom="FUNCTION_CALLS">  </category>
     <category name="Definiciones">
         <block type="procedures_defnoreturn"></block>
         <block type="procedures_defreturnsimplewithparams"></block>
