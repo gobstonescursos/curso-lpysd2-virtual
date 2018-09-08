@@ -52,7 +52,7 @@
       }
 	 ]
   }
-, { "name": "2.Parámetros y Entrada-Salida", "repo": "gobstones/laprogramacionysudidactica2"
+, { "name": "2.Parámetros y Entrada-Salida", "repo": "gobstones/curso-lpysd2"
   , "exercises":
     [ { "id": "1.1", "name": "La máquina de licuados v1.0"
       , "path": "Unidades/2.Parámetros y Entrada-Salida/1.1.La máquina de licuados v1.0"
