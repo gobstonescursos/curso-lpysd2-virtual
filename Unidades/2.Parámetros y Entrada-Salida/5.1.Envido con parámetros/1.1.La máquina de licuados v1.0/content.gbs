@@ -1,0 +1,3 @@
+interactive program {
+    K_ENTER -> { ... }
+}
