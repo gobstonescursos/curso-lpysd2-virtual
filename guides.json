@@ -98,4 +98,11 @@
       }	
     ]
   }
+, { "name": "3.Variables y acumuladores", "repo": "gobstones/curso-LPYSD2"
+  , "exercises":
+    [ { "id": "1", "name": "Recuerden la contraseña"
+      , "path": "Unidades/3.Variables y acumuladores/1.Recuerden la contraseña"
+      }
+    ]
+  }
 ]
