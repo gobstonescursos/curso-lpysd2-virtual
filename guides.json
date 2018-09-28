@@ -1,5 +1,5 @@
 [
-  { "name": "0.Repaso", "repo": "gobstones/curso-lpysd2"
+  { "name": "0.Repaso", "repo": "gobstones/curso-LPYSD2"
   , "exercises": 
     [ { "id": "1", "name": "Lucho enciende las luces"
       , "path": "Unidades/0.Repaso/1.Lucho enciende las luces"
@@ -15,7 +15,7 @@
       }
     ]
   }
-, { "name": "1.Expresiones y funciones", "repo": "gobstones/curso-lpysd2"
+, { "name": "1.Expresiones y funciones", "repo": "gobstones/curso-LPYSD2"
   , "exercises":
     [ { "id": "1", "name": "La cena de Dino"
       , "path": "Unidades/1.Expresiones y funciones/1.La cena de Dino"
@@ -52,7 +52,7 @@
       }
 	 ]
   }
-, { "name": "2.Parámetros y Entrada-Salida", "repo": "gobstones/curso-lpysd2"
+, { "name": "2.Parámetros y Entrada-Salida", "repo": "gobstones/curso-LPYSD2"
   , "exercises":
     [ { "id": "1.1", "name": "La máquina de licuados v1.0"
       , "path": "Unidades/2.Parámetros y Entrada-Salida/1.1.La máquina de licuados v1.0"
@@ -108,6 +108,18 @@
       }
     , { "id": "3", "name": "¿Cuánto envido?"
       , "path": "Unidades/3.Variables y acumuladores/3.Cuánto envido"
+      }
+    , { "id": "4", "name": "Recuerdos viejos, renovados"
+      , "path": "Unidades/3.Variables y acumuladores/4.Recuerdos viejos, renovados"
+      }
+    , { "id": "5.1", "name": "El mono cuenta las frutas"
+      , "path": "Unidades/3.Variables y acumuladores/5.1.El mono cuenta las frutas"
+      }
+    , { "id": "5.2", "name": "El mono va y vuelve"
+      , "path": "Unidades/3.Variables y acumuladores/5.2.El mono va y vuelve"
+      }
+    , { "id": "5.3", "name": "El mono cuenta de nuevo"
+      , "path": "Unidades/3.Variables y acumuladores/5.3.El mono cuenta de nuevo"
       }
     ]
   }
