@@ -126,16 +126,16 @@
 , { "name": "4.Introducción a listas", "repo": "gobstones/curso-LPYSD2"
   , "exercises":
     [ { "id": "1", "name": "Descubrir la lista"
-      , "path": "Proyectos/4.Introducción a listas/1.Descubrir la lista"
+      , "path": "Unidades/4.Introducción a listas/1.Descubrir la lista"
       }
     , { "id": "2", "name": "La lista contraataca"
-      , "path": "Proyectos/4.Introducción a listas/2.La lista contraataca"
+      , "path": "Unidades/4.Introducción a listas/2.La lista contraataca"
       }
     , { "id": "3", "name": "El regreso de la lista"
-      , "path": "Proyectos/4.Introducción a listas/3.El regreso de la lista"
+      , "path": "Unidades/4.Introducción a listas/3.El regreso de la lista"
       }
     , { "id": "4", "name": "El repartir de las cartas"
-      , "path": "Proyectos/4.Introducción a listas/4.El repartir de las cartas"
+      , "path": "Unidades/4.Introducción a listas/4.El repartir de las cartas"
       }
 	] 
   }
