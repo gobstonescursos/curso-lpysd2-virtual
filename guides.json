@@ -137,6 +137,24 @@
     , { "id": "4", "name": "El repartir de las cartas"
       , "path": "Unidades/4.Introducción a listas/4.El repartir de las cartas"
       }
+    , { "id": "5", "name": "Contar las cartas entre bambalinas"
+      , "path": "Unidades/4.Introducción a listas/5.Contar las cartas entre bambalinas"
+      }
+    , { "id": "6", "name": "¿Cuántos puntos tengo?"
+      , "path": "Unidades/4.Introducción a listas/6.Cuántos puntos tengo"
+      }
+    , { "id": "7.1", "name": "Todas iguales"
+      , "path": "Unidades/4.Introducción a listas/7.1.Todas iguales"
+      }
+    , { "id": "7.2", "name": "Los números de las cartas"
+      , "path": "Unidades/4.Introducción a listas/7.2.Los números de las cartas"
+      }
+    , { "id": "8.1", "name": "El rey Midas"
+      , "path": "Unidades/4.Introducción a listas/8.1.El rey Midas"
+      }
+    , { "id": "8.2", "name": "La perdición de Midas"
+      , "path": "Unidades/4.Introducción a listas/8.2.La perdición de Midas"
+      }
 	] 
   }
  
