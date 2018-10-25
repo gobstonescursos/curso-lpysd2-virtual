@@ -137,6 +137,8 @@
     , { "id": "4", "name": "El repartir de las cartas"
       , "path": "Unidades/4.Introducción a listas/4.El repartir de las cartas"
       }
+	] 
+  }
 , { "name": "5.Algoritmos sobre listas", "repo": "gobstones/curso-LPYSD2"
   , "exercises":
     [ { "id": "1", "name": "Contar las cartas entre bambalinas"
