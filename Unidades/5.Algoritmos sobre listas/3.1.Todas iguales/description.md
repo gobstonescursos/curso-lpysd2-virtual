@@ -1,4 +1,4 @@
-#Actividad 7.1. Todas iguales
+#Actividad 3.1. Todas iguales
 
 En esta actividad tenés que construir un programa que arme un mazo de cartas.
 Pero este mazo es muy particular: tiene todas las cartas iguales.
@@ -21,4 +21,4 @@ La dificultad está en como _recordar_ los resultados que calculamos hasta ahora
 
 [Enunciado en PDF][PDF]
 
-[PDF]: https://raw.githubusercontent.com/gobstones/laprogramacionysudidactica2/master/Proyectos/4.Introducci%C3%B3n%20a%20listas/7.1.Todas%20iguales/assets/resources/description.pdf "Enunciado de 'Todas iguales' en PDF"
+[PDF]: https://raw.githubusercontent.com/gobstones/laprogramacionysudidactica2/master/Proyectos/5.Algoritmos%20sobre%20listas/3.1.Todas%20iguales/assets/resources/description.pdf "Enunciado de 'Todas iguales' en PDF"

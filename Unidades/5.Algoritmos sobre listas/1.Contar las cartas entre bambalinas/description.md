@@ -1,4 +1,4 @@
-#Actividad 5. Contar las cartas entre bambalinas
+#Actividad 1. Contar las cartas entre bambalinas
 
 Una vez más tenés que construir un programa que cuente elementos, esta vez, cartas.
 Pero la diferencia con las veces anteriores es que esta vez, en lugar de movernos sobre el escenario,
@@ -29,4 +29,4 @@ Vos tenés que calcular y determinar el resultado de la función.
 
 [Enunciado en PDF][PDF]
  
-[PDF]: https://raw.githubusercontent.com/gobstones/laprogramacionysudidactica2/master/Proyectos/4.Introducci%C3%B3n%20a%20listas/5.Contar%20las%20cartas%20entre%20bambalinas/assets/resources/description.pdf "Enunciado de 'Contar las cartas entre bambalinas' en PDF"
+[PDF]: https://raw.githubusercontent.com/gobstones/laprogramacionysudidactica2/master/Proyectos/5.Algoritmos%20sobre%20listas/1.Contar%20las%20cartas%20entre%20bambalinas/assets/resources/description.pdf "Enunciado de 'Contar las cartas entre bambalinas' en PDF"

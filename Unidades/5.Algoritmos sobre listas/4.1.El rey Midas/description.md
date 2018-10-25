@@ -1,4 +1,4 @@
-#Actividad 8.1. El rey Midas
+#Actividad 4.1. El rey Midas
 
 De acuerdo con la mitología griega, el rey Midas tenía la habilidad de convertir en oro todo lo que tocara. 
 O sea, sería el sueño de los alquimistas de antaño. En la Unidad 1 ya jugamos a ser alquimistas, pero en 
@@ -22,4 +22,4 @@ Te mostramos algunos escenarios finales correctos:
 
 [Enunciado en PDF][PDF]
 
-[PDF]: https://raw.githubusercontent.com/gobstones/laprogramacionysudidactica2/master/Proyectos/4.Introducci%C3%B3n%20a%20listas/8.El%20rey%20Midas/assets/resources/description.pdf "Enunciado de 'El rey Midas' en PDF"
+[PDF]: https://raw.githubusercontent.com/gobstones/laprogramacionysudidactica2/master/Proyectos/5.Algoritmos%20sobre%20listas/4.1.El%20rey%20Midas/assets/resources/description.pdf "Enunciado de 'El rey Midas' en PDF"

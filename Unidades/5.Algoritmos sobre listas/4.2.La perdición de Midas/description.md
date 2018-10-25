@@ -1,4 +1,4 @@
-#Actividad 8.2. La perdición de Midas
+#Actividad 4.2. La perdición de Midas
 
 Ya vimos que se creía que el rey Midas tenía la habilidad de convertir en oro todo lo que tocara. 
 Sin embargo, según Aristóteles, la leyenda afirmaba que Midas murió de hambre debido a su extraño poder.
@@ -32,4 +32,4 @@ Te mostramos algunos escenarios finales correctos:
 
 [Enunciado en PDF][PDF]
 
-[PDF]: https://raw.githubusercontent.com/gobstones/laprogramacionysudidactica2/master/Proyectos/4.Introducci%C3%B3n%20a%20listas/8.2.La%20perdici%C3%B3n%20de%20Midas/assets/resources/description.pdf "Enunciado de 'La perdición de Midas' en PDF"
+[PDF]: https://raw.githubusercontent.com/gobstones/laprogramacionysudidactica2/master/Proyectos/5.Algoritmos%20sobre%20listas/4.2.La%20perdici%C3%B3n%20de%20Midas/assets/resources/description.pdf "Enunciado de 'La perdición de Midas' en PDF"
