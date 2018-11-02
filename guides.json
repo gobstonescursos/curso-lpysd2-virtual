@@ -170,4 +170,26 @@
       }
     ]
   }
+, { "name": "6.Representación de la información", "repo": "gobstones/curso-LPYSD2"
+  , "exercises": 
+    [ { "id": "1", "name": "En los ojos de la compu"
+      , "path": "Unidades/6.Representación de la información/1.En los ojos de la compu"
+      }
+    , { "id": "2.1", "name": "Código de la carta"
+      , "path": "Unidades/6.Representación de la información/2.1.Código de la carta"
+      }
+    , { "id": "2.2", "name": "Representar el mazo"
+      , "path": "Unidades/6.Representación de la información/2.2.Representar el mazo"
+      }
+    , { "id": "3", "name": "Transformar las letras"
+      , "path": "Unidades/6.Representación de la información/3.1.Transformar las letras"
+      }
+	, { "id": "4.1", "name": "Las bambalinas de Gobstones"
+      , "path": "Unidades/6.Representación de la información/4.1.Las bambalinas de Gobstones"
+      }
+	, { "id": "4.2", "name": "Vayamos a bambalinas"
+      , "path": "Unidades/6.Representación de la información/4.2.Vayamos a bambalinas"
+      }
+	 ] 
+  }
 ]
