@@ -12,6 +12,7 @@ blocks:
     </category>
     <category name="Expresiones básicas">
         <block type="math_number"></block>
+        <block type="esElMismoNúmeroQue__"></block>
         <block type="OperadorDeComparacion"></block>
         <block type="OperadorLogico"></block>
         <block type="not"></block>

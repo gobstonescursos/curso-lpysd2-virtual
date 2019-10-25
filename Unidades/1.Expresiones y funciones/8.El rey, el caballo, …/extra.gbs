@@ -2112,3 +2112,6 @@ function aux_armarRepresentaciónDeCartasDeMazoEspañolCompletoDe(palo) {
 /*==================================================================================================*/
 /*------------------------- FIN AUXILIARES de 04-MazosEspañoles-Base.gbs ---------------------------*/
 /*==================================================================================================*/
+
+/*@ATTRIBUTE@block_name@_ es el mismo número que _@*/
+function esElMismoNúmeroQue__(número1, número2) { return (número1==número2) }
