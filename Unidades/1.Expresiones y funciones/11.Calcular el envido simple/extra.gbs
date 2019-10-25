@@ -2126,6 +2126,7 @@ function cartaDerecha() {
   return(aux_cartaEspañolaActual())
 }
 
+/*@ATTRIBUTE@block_name@Decir este número_@*/
 procedure DecirNúmero_(valor) {
   AuxPonerNúmero(valor)
   AuxValidarSalida(valor == aux_envido(cartaDerecha(), cartaIzquierda()))

@@ -2118,6 +2118,7 @@ function aux_armarRepresentaciónDeCartasDeMazoEspañolCompletoDe(palo) {
 /*==================================================================================================*/
 /*--------------------------- OPERACIONES ESPECÍFICAS DE LA ACTIVIDAD ------------------------------*/
 /*==================================================================================================*/
+/*@ATTRIBUTE@block_name@Decir este palo_@*/
 procedure DecirPalo_(palo) {
   if (not aux_hayCartaEspañolaTapada()) { BOOM("No hay carta para adivinar") }
   carta := aux_cartaEspañolaTapada()
@@ -2133,6 +2134,7 @@ procedure DecirPalo_(palo) {
   AuxValidarCartas(carta, aux_armarCartaEspañola(valor, palo))
 }
 
+/*@ATTRIBUTE@block_name@Decir este número_@*/
 procedure DecirNúmero_(valor) {
   if (not aux_hayCartaEspañolaTapada()) { BOOM("No hay carta para adivinar") }
   Mover(Sur)
