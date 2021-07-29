@@ -11,7 +11,7 @@ import subprocess
 import sys
 
 # Complete for each different repository
-thisRepo = 'gobstones/curso-lpysd2'
+thisRepo = 'gobstones/curso-lpysd2-virtual'
 gbpsPath = os.path.join("ArchivosDeProyectos-Generado")
 
 class GBPGenerator:
