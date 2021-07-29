@@ -1,15 +1,36 @@
-name: El regreso de la lista
+library:
+  visible: false
+source:
+  visible: true
+  percentage: 0.6500000178726666
+board:
+  visible_edition: false
+  collapse_toolbox: false
+  user_permissions:
+    can_change_initial_board: false
+    can_change_initial_board_source: false
+    can_edit_board: false
+    can_view_size_section: false
+    can_view_attire_section: false
+  active: 1
+  initial_board_source: random
+execution_speed:
+  user_permissions:
+    can_change_speed: true
+  active: high
 attire:
-  active: 'Cartas, letras y números'
+  visible: true
   user_permissions:
     can_toggle_visibility: true
-  visible: true
+  active: 'Cartas, letras y números'
+initialDescription: true
 blocks:
   defaultToolbox: |
     <category name="Comandos básicos">
         <block type="InformarNúmero_"></block>
         <block type="RepeticionCondicional"></block>
         <block type="Asignacion"></block>
+        <block type="ForEach"></block>
     </category>
     <category name="Operaciones de listas">
         <block type="listaDeNúmerosDelEscenario"></block>
@@ -23,23 +44,5 @@ blocks:
         <block type="procedures_defnoreturn"></block>
         <block type="procedures_defreturnsimplewithparams"></block>
     </category>
-board:
-  active: 1
-  initial_board_source: random
-  visible_edition: false
-  collapse_toolbox: false
-  user_permissions:
-    can_view_attire_section: false
-    can_edit_board: false
-    can_change_initial_board: false
-    can_change_initial_board_source: false
-    can_view_size_section: false
-execution_speed:
-  active: high
-  user_permissions:
-    can_change_speed: true
-library:
-  visible: false
-source:
-  visible: true
-  percentage: 0.65  
+customErrors: null
+name: El regreso de la lista
