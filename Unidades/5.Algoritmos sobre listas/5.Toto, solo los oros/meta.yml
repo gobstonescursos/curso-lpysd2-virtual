@@ -12,6 +12,7 @@ blocks:
         <block type="AlternativaSimple"></block>
         <block type="AlternativaCompleta"></block>
         <block type="RepeticionCondicional"></block>
+        <block type="ForEach"></block>
         <block type="Asignacion"></block>
     </category>
     <category name="Expresiones básicas">
