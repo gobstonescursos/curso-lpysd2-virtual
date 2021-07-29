@@ -1,14 +1,12 @@
+procedure InformarEnEsteLugarElMazoDeIguales(cantidad, carta) {
+}
+
+
 program {
   IrAlInicioDeLaEntrada()
   númeroDeEntrada := númeroActual()
   PasarASiguientePosición()
   cartaDeEntrada := cartaActual()
   IrAlInicioDeLaSalida()
-  InformarEnEsteLugarElMazo_(mazoDeIguales(númeroDeEntrada, cartaDeEntrada))
+  InformarEnEsteLugarElMazoDeIguales(númeroDeEntrada, cartaDeEntrada)
 }
-
-function mazoDeIguales(cantidad, carta) {
-  ...
-  return (...)
-}
-

@@ -9,6 +9,7 @@ blocks:
     <category name="Comandos básicos">
         <block type="RepeticionSimple"></block>
         <block type="Asignacion"></block>
+        <block type="ForEach"></block>
     </category>
     <category name="Operaciones de E/S">
         <block type="IrAlInicioDeLaEntrada"></block>

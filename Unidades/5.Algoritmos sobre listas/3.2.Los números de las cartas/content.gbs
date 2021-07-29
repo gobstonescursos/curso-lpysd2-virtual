@@ -1,12 +1,10 @@
+procedure InformarLosNúmerosDelMazo(mazo) {
+}
+
+
 program {
   IrAlInicioDeLaEntrada()
   mazoDeEntrada := mazoActual()
   IrAlInicioDeLaSalida()
-  InformarEnEsteLugarLaListaDeNúmeros_(númerosDelMazo(mazoDeEntrada))
+  InformarLosNúmerosDelMazo(mazoDeEntrada)
 }
-
-function númerosDelMazo(mazo) {
-  ...
-  return (...)
-}
-
