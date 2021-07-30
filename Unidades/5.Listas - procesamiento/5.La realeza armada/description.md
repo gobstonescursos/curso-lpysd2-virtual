@@ -15,10 +15,3 @@ Las figuras (rey, caballo y sota) representan miembros de la realeza, y los palo
 > **¡No olvides a las funciones!**
 >
 > ¿Te acordás cómo usamos funciones en _"Dino aprende a no comer chatarra"_?
-> En esta actividad deberías realizar una división en subtareas parecida a esa.
-> Y no te olvides de hacer un recorrido para filtrar los elementos de la lista de entrada.
-
-[Enunciado en PDF][PDF]
-
-[PDF]: 
-https://raw.githubusercontent.com/gobstones/laprogramacionysudidactica2/master/Proyectos/5.Algoritmos%20sobre%20listas/6.La%20realeza%20armada/assets/resources/description.pdf "Enunciado de 'La realeza armada' en PDF"
