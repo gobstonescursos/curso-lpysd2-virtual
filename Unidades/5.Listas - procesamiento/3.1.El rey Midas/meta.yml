@@ -12,6 +12,7 @@ blocks:
         <block type="InformarCarta_"></block>
         <block type="RepeticionCondicional"></block>
         <block type="Asignacion"></block>
+        <block type="ForEach"></block>
     </category>
     <category name="Expresiones básicas">
         <block type="not"></block>
