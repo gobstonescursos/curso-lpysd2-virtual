@@ -1,20 +1,19 @@
+function códigosDeLasCartas(mazo) {
+  códigos := listaVacía()
+  foreach carta in mazo {
+    códigos := agregarAlFinalDeLaLista__(códigos, códigoDeLaCarta(carta))
+  }
+  return (códigos)
+}
+
+function códigoDeLaCarta(carta) {
+  return ((100 * códigoDelPalo_(dameElPalo_(carta))) + dameElValor_(carta))
+}
+
+
 program {
   IrAlInicioDeLaEntrada()
-  mazoDeEntrada := mazoActual()
+  mazo := mazoActual()
   IrAlInicioDeLaSalida()
-  InformarEnEsteLugarLaListaDeNúmeros_(códigosDeLasCartas(mazoDeEntrada))
+  InformarEnEsteLugarLaListaDeNúmeros_(códigosDeLasCartas(mazo))
 }
-
-function códigosDeLasCartas(mazo) {
-  cartasAúnNoAnalizadas := mazo
-  códigosVistos := listaVacía()
-  while (not (not(quedanCartas_(cartasAúnNoAnalizadas)))) {
-    códigosVistos := agregarAlFinalDeLaLista__(códigosVistos, códigoDeLaCarta(dameLaPrimeraCartaDe_(cartasAúnNoAnalizadas)))
-    cartasAúnNoAnalizadas := sacarLaPrimeraCartaDe_(cartasAúnNoAnalizadas)
-  }
-  return (códigosVistos)
-}
-
-function códigoDeLaCarta(carta) { return ((100 * códigoDelPalo_(dameElPalo_(carta))) + dameElValor_(carta)) }
-
-
