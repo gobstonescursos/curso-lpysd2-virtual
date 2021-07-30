@@ -1,5 +1,5 @@
 [
-  { "name": "0.Repaso"                     , "repo": "gobstones/curso-LPYSD2-virtual"
+  { "name": "0.Repaso"                     , "repo": "gobstonescursos/curso-LPYSD2-virtual"
   , "exercises": 
     [ { "id": "1", "name": "Lucho enciende las luces"
       , "path": "Unidades/0.Repaso/1.Lucho enciende las luces"
@@ -15,7 +15,7 @@
       }
     ]
   }
-, { "name": "1.Expresiones y funciones"    , "repo": "gobstones/curso-LPYSD2-virtual"
+, { "name": "1.Expresiones y funciones"    , "repo": "gobstonescursos/curso-LPYSD2-virtual"
   , "exercises":
     [ { "id": "1", "name": "La cena de Dino"
       , "path": "Unidades/1.Expresiones y funciones/1.La cena de Dino"
@@ -49,7 +49,7 @@
       }
 	 ]
   }
-, { "name": "2.Parámetros y Entrada-Salida", "repo": "gobstones/curso-LPYSD2-virtual"
+, { "name": "2.Parámetros y Entrada-Salida", "repo": "gobstonescursos/curso-LPYSD2-virtual"
   , "exercises":
     [ { "id": "1.1", "name": "La máquina de licuados v1.0"
       , "path": "Unidades/2.Parámetros y Entrada-Salida/1.1.La máquina de licuados v1.0"
@@ -83,7 +83,7 @@
       }	
     ]
   }
-, { "name": "3.Variables y acumuladores"   , "repo": "gobstones/curso-LPYSD2-virtual"
+, { "name": "3.Variables y acumuladores"   , "repo": "gobstonescursos/curso-LPYSD2-virtual"
   , "exercises":
     [ { "id": "1", "name": "Recuerden la contraseña"
       , "path": "Unidades/3.Variables y acumuladores/1.Recuerden la contraseña"
@@ -99,7 +99,7 @@
       }
     ]
   }
-, { "name": "4.Listas: introducción y recorridos"      , "repo": "gobstones/curso-LPYSD2-virtual"
+, { "name": "4.Listas: introducción y recorridos"      , "repo": "gobstonescursos/curso-LPYSD2-virtual"
   , "exercises":
     [ { "id": "1", "name": "Descubrir la lista"
       , "path": "Unidades/4.Listas - introducción y recorridos/1.Descubrir la lista"
@@ -118,7 +118,7 @@
       }
 	] 
   }
-, { "name": "5.Listas: procesamiento"    , "repo": "gobstones/curso-LPYSD2-virtual"
+, { "name": "5.Listas: procesamiento"    , "repo": "gobstonescursos/curso-LPYSD2-virtual"
   , "exercises":
     [{ "id": "1.1", "name": "¿Cuántos puntos tengo?"
       , "path": "Unidades/5.Listas - procesamiento/1.1.Cuántos puntos tengo"
@@ -146,7 +146,7 @@
       }
     ]
   }
-, { "name": "6.Representación de la información", "repo": "gobstones/curso-LPYSD2-virtual"
+, { "name": "6.Representación de la información", "repo": "gobstonescursos/curso-LPYSD2-virtual"
   , "exercises": 
     [ { "id": "1", "name": "En los ojos de la compu"
       , "path": "Unidades/6.Representación de la información/1.En los ojos de la compu"
